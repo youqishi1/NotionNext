@@ -59,7 +59,7 @@ const BLOG = {
   // START ************网站字体*****************
   // ['font-serif','font-sans'] 两种可选，分别是衬线和无衬线: 参考 https://www.jianshu.com/p/55e410bd2115
   // 后面空格隔开的font-light的字体粗细，留空是默认粗细；参考 https://www.tailwindcss.cn/docs/font-weight
-  FONT_STYLE: process.env.NEXT_PUBLIC_FONT_STYLE || 'font-sans font-light',
+  FONT_STYLE: process.env.NEXT_PUBLIC_FONT_STYLE || 'font-sans font-bold',
   // 字体CSS 例如 https://npm.elemecdn.com/lxgw-wenkai-webfont@1.6.0/style.css
   FONT_URL: [
     // 'https://npm.elemecdn.com/lxgw-wenkai-webfont@1.6.0/style.css',
@@ -318,7 +318,21 @@ const BLOG = {
     {
       name: '2dawdaw',
       artist: 'Falcom Sound Team jdk',
-      url: 'music.163.com/outchain/player?type=2&id=1869390986&auto=1&height=66',
+      url: 'https://ting8.yymp3.com/new27/chengxiang10/1.mp3',
+      cover:
+        'https://p2.music.126.net/kn6ugISTonvqJh3LHLaPtQ==/599233837187278.jpg'
+    },
+    {
+      name: '3333',
+      artist: 'Falcom Sound Team jdk',
+      url: 'https://m701.music.126.net/20240618171950/879983a1be6d1bef44f2d28c5e4be236/jdyyaac/obj/w5rDlsOJwrLDjj7CmsOj/43939673636/51a4/29d7/e910/c95d458dccec77e6f4a2d1c6fca6d563.m4a',
+      cover:
+        'https://p2.music.126.net/kn6ugISTonvqJh3LHLaPtQ==/599233837187278.jpg'
+    },
+    {
+      name: '3333',
+      artist: 'Falcom Sound Team jdk',
+      url: 'https://m701.music.126.net/20240618171950/879983a1be6d1bef44f2d28c5e4be236/jdyyaac/obj/w5rDlsOJwrLDjj7CmsOj/43939673636/51a4/29d7/e910/c95d458dccec77e6f4a2d1c6fca6d563.mp3',
       cover:
         'https://p2.music.126.net/kn6ugISTonvqJh3LHLaPtQ==/599233837187278.jpg'
     },

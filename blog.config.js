@@ -316,6 +316,13 @@ const BLOG = {
         'https://p2.music.126.net/kn6ugISTonvqJh3LHLaPtQ==/599233837187278.jpg'
     },
     {
+      name: '2dawdaw',
+      artist: 'Falcom Sound Team jdk',
+      url: 'music.163.com/outchain/player?type=2&id=1869390986&auto=1&height=66',
+      cover:
+        'https://p2.music.126.net/kn6ugISTonvqJh3LHLaPtQ==/599233837187278.jpg'
+    },
+    {
       name: '王都グランセル',
       artist: 'Falcom Sound Team jdk',
       url: 'https://music.163.com/song/media/outer/url?id=731355.mp3',

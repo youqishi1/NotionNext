@@ -32,8 +32,8 @@ export default function PostHeader({ post, siteInfo, isDarkMode }) {
           top: 0;
           left: 0;
           box-shadow: 110px -130px 500px 100px ${isDarkMode
-              ? '#CA8A04'
-              : '#0060e0'} inset;
+              ? '#594C30'
+              : '#40597A'} inset;
         }
       `}</style>
 
